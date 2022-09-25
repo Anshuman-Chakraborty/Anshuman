@@ -1,5 +1,4 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Anshuman
-profile
 # 💫 About Me:
 🔭 I’m currently working on JAVA programming and Web Development<br>👯 I’m looking to collaborate with people working with JAVA as their main professional language.<br>🤝 I’m looking for help with improving my skills as a programmer and find related projects.<br>🌱 I’m currently learning Data Structures and Algorithms.<br>💬 Ask me about a JAVA code and I'll give 101% answering it.<br>⚡ Fun fact, I didn't start JAVA because of school but because I liked the colors of BlueJ compiler :D.
 
