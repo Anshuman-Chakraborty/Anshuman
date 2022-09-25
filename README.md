@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Anshuman
 
-![](https://imgur.com/a/owFvRuf)
+![](https://photos.google.com/photo/AF1QipNeDuhJilXf9B-i-eYNZPqTD__tgTFpPbLAshzb)
 
 
 # 💫 About Me:
