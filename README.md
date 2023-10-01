@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on JAVA programming and Web Development<br>👯 I’m looking to collaborate with people working with JAVA as their main professional language.<br>🤝 I’m looking for help with improving my skills as a programmer and find related projects.<br>🌱 I’m currently learning Data Structures and Algorithms.<br>💬 Ask me about a JAVA code and I'll give 101% answering it.<br>⚡ Fun fact, I didn't start JAVA because of school but because I liked the colors of BlueJ compiler :D.
+🔭 I’m currently working on JAVA programming and App Development<br>👯 I’m looking to collaborate with people working with JAVA and/or Kotlin as their main professional language.<br>🤝 I’m looking for help with improving my skills as a programmer and find related projects.<br>🌱 I’m currently learning Data Structures and Algorithms along with App dev.<br>💬 Looking forward to having discussions related to Kotlin / React Native / Flutter<br>⚡ Fun fact, I didn't start JAVA because of school but because I liked the colors of BlueJ compiler :D.
 
 
 ## 🌐 Socials:
